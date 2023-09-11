@@ -1,9 +1,14 @@
-// remove margin-top of post-share
+// remove space of post-share
 .post-tail-bottom.d-flex.justify-content-between.align-items-center.mt-5.pb-2 {
   margin-top: 0 !important;
 }
 
-// add margin-bottom on post-share
+// add space on post-share
 .post-tags {
   margin-bottom: 1rem !important;
+}
+
+// add space on post-navigation
+.post-navigation {
+  margin-bottom: 2rem;
 }
