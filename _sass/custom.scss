@@ -1,0 +1,9 @@
+// remove margin-top of post-share
+.post-tail-bottom.d-flex.justify-content-between.align-items-center.mt-5.pb-2 {
+  margin-top: 0 !important;
+}
+
+// add margin-bottom on post-share
+.post-tags {
+  margin-bottom: 1rem !important;
+}
